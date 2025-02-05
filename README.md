@@ -4,7 +4,7 @@
 Buongiorno,il progetto Fortinite-2D verrà iniziato in data 7/02/2025 ore 16:35 e 
 finito in data 9/02/2025 ore 17:XX.
 il linguaggio di programmazione per il gioco non saprò ancora qualle sarà,molto -
-probabilmente in linguaggio C# ma dovrò ancora sapere in che linguaggio[forse in-
+probabilmente in linguaggio C-SHARP ma dovrò ancora sapere in che linguaggio[forse in-
 C++].
 ----------------------------------------------
 ATTENZIONE ! ! 
