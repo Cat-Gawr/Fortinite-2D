@@ -10,7 +10,8 @@ C++].
 ATTENZIONE ! ! 
 
 per tutti i problemi del file io personalmente NON sarò e sottolineo NON SARò il-
-responsabile se il codice andra:
+responsabile se il codice andra in uno di questi POSSIBILI casi :
+
 1-il codice non partirà per poche estionsi scaricate su VsCode
 
 2-per mancanza utilzzo del terminale VsCode o del CMD di Windows 10-11
