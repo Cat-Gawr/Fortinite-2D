@@ -9,3 +9,7 @@ i prossimi progetti di codifica saranno i seguenti elecanti sotto :
 3 • alucni piccoli script in python e in react nello stesso file
 
 4 • forse app di kebab?
+
+----------------------------------------------------------------------------
+
+P.S i 4 progetti che sono stati elecanti verranno fatti non più 4 ma bensì 5
